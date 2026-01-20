@@ -1,0 +1,2 @@
+# Multi-Cycle-Viterbi-Decoder-with-Custom-IEEE-754-FP-Units
+Course Project: CS6230 - CAD for VLSI Systems, IIT Madras. Hardware implementation of a Viterbi Decoder for Hidden Markov Models in Bluespec  SystemVerilog. Features custom IEEE 754-compliant floating-point adder and  comparator units with multi-cycle FSM control. Includes Python-based verification framework and synthesis results using SAED 32nm.
