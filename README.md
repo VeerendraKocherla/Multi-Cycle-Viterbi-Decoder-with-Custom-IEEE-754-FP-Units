@@ -77,6 +77,8 @@ A golden reference model is designed in python to validate the hardware implemen
 
 You can also generate a custom test-case using [create_testcase.py](Python_verification/create_testcase.py)
 
+Run python files using ```python <file_name.py>``` in terminal.
+
 ### Repository structure
 ![Repository structure](RepoStructure.png)
 
@@ -87,4 +89,5 @@ You can also generate a custom test-case using [create_testcase.py](Python_verif
 3. [This](https://csg.csail.mit.edu/6.S078/6_S078_2012_www/resources/reference-guide.pdf) reference guide for Bluespec SystemVerilog
 4. NumPy Documentation
 
-
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
