@@ -63,10 +63,6 @@ module mkTestbench(Empty);
    rule rl_tick;
       $display("------------------CLOCK [%0d]--------------------", clk);
       clk <= clk + 1;
-      if (inp_ptr == 106) begin
-         $display("Timeout: exceeded maximum cycles");
-         $finish(0);
-      end
    endrule
 
    rule rl_open(addr_ptr == 9999 && rg_state == START);
