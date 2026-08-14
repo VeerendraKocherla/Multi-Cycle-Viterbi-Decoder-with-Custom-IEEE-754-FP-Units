@@ -89,5 +89,3 @@ Run python files using ```python <file_name.py>``` in terminal.
 3. [This](https://csg.csail.mit.edu/6.S078/6_S078_2012_www/resources/reference-guide.pdf) reference guide for Bluespec SystemVerilog
 4. NumPy Documentation
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
