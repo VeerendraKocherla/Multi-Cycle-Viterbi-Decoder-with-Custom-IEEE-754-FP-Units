@@ -84,7 +84,7 @@ Run python files using ```python <file_name.py>``` in terminal.
 
 
 ### References
-1. Problem statement and class notes provided by Professor of Course CS6230 - CAD for VLSI systems [Dr. Gopalakrishnan Srinivasan](https://www.cse.iitm.ac.in/profile.php?arg=MzEyNQ==) 
+1. Problem statement and class notes provided by Professor of Course CS6230 - CAD for VLSI systems [Dr. Gopalakrishnan Srinivasan](https://cse.iitm.ac.in/innerfaculty.php?fname=Gopalakrishnan+Srinivasan) 
 2. [This](https://youtu.be/xejm-z3sbWA?si=4eVUQQB4EYor0Hg2) youtube video on Viterbi Algorithm
 3. [This](https://csg.csail.mit.edu/6.S078/6_S078_2012_www/resources/reference-guide.pdf) reference guide for Bluespec SystemVerilog
 4. NumPy Documentation
